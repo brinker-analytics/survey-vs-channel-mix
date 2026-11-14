@@ -1,0 +1,7 @@
+channel,periods,latest_direction,periods_in_a_row,periods_with_this_direction,changed_from,total_responses
+Friend or family,3,no channel data,3,3,,93
+Google Search,3,mixed,3,3,,121
+Meta,3,mixed,1,2,below all,205
+Other,3,no channel data,3,3,,55
+Podcast,3,no channel data,3,3,,77
+YouTube,3,above all,3,3,,94
