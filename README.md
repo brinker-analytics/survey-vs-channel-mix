@@ -76,6 +76,8 @@ Acting on survey data is a leap of faith, like every other measurement method. H
 
 If you want to know whether what your customers say is worth a test, send me a note and we'll talk it through: [Get in touch](https://brinkeranalytics.com/contact).
 
+Lined the survey up against the mix and still not sure how to set the questions, or when a gap is worth a test? [Invisible Selling Channels](https://brinkeranalytics.com/guides/invisible-selling-channels) walks the two-question survey, how to read the answers against your channel mix, and when a gap is worth a test.
+
 ## Free reading on brinkeranalytics.com
 
 - [How to measure CTV, TV and podcast ads without clicks](https://brinkeranalytics.com/insights/measure-ctv-podcast-no-click-media)
